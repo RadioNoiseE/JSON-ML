@@ -1,5 +1,4 @@
-<h1 align="center">JSON-ML [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</h1>
-
+<h1 align="center">JSON-ML <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" align="right"></h1>
 
 <p align="center"><i>A minimal, flexible, and dependency-free JSON parser implemented in OCaml</i>.</p>
 
