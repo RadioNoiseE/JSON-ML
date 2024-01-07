@@ -30,7 +30,7 @@ print_string mem;;
 
 ## Dependencies
 
-- Bacis OCaml development enviroment. (`opam` is not required)
+- Basic OCaml development environment. (`opam` is not required)
   - Gentoo: `doas emerge -a dev-lang/ocaml`;
   - Debian: `apt install ocaml`;
   - Fedora: `dnf install ocaml`;
